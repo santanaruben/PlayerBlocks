@@ -1,0 +1,25 @@
+#navPrincipal {
+  position: absolute;
+  z-index: 9999;
+  width: 100%;
+  top: 0;
+  .navbar-collapse {
+    text-align: center;
+  }
+}
+
+#topbarLogo {
+  height: 50px;
+  vertical-align: middle;
+}
+// #navSpace {
+//   height: 65px;
+// }
+#navSpace {
+  height: 59px;
+}
+@media (min-width: 600px) {
+  #navSpace {
+    height: 64px;
+  }
+}

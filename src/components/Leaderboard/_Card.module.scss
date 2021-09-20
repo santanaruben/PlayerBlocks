@@ -1,0 +1,154 @@
+.cartaGiratoria {
+  overflow: visible;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  animation: show 0.3s linear;
+  color: white;
+}
+
+@keyframes show {
+  0% {
+    filter: blur(10px);
+    opacity: 0;
+  }
+  100% {
+    filter: blur(0px);
+    opacity: 1;
+  }
+}
+
+.cartaGiratoria h1 {
+  font-size: 25px;
+  font-weight: 200;
+  color: white;
+  line-height: 30px;
+  margin-bottom: 10px;
+}
+.cartaGiratoria h2 {
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.cartaToken {
+  transition: transform 0.7s;
+  transform-style: preserve-3d;
+  &:hover {
+    animation: efecto 0.3s ease-in-out;
+  }
+  cursor: pointer;
+  height: 400px;
+  width: 250px;
+  margin: 0 auto;
+  position: relative;
+  // z-index: 1;
+  perspective: 600px;
+  .front,
+  .back {
+    background-color: black;
+    border-radius: 10px;
+    border-color: white;
+    border-style: solid;
+    border-width: 5px;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+    box-sizing: border-box;
+    transition: 0.5s ease-in-out;
+    // background-color: rgb(250, 250, 250);
+  }
+  .front {
+    height: 100%; /*tamaño fondo 32*/
+    max-width: 100%;
+    // background-image: url(./verticalBackground.png);
+    // background-image: url(./gold3.jpg);
+    background-size: contain;
+    background-color: rgba(255, 255, 255, 0.4);
+    transform: rotateY(0deg);
+    overflow: hidden;
+    z-index: 1;
+    .avatar {
+      width: 114px;
+      height: 114px;
+      top: 50%;
+      left: 50%;
+      margin: -77px 0 0 -57px;
+      border-radius: 100%;
+      box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.8),
+        0 4px 5px rgba(107, 5, 0, 0.6), 0 0 50px 50px rgba(255, 255, 255, 0.25);
+      //Esta es la imagen de fondo del avatar
+      /* background-image: url(../../img/imagen.jpg); */
+      // background-color: rgba(255, 255, 255, 0.8);
+      background-size: contain;
+      position: absolute;
+      z-index: 1;
+    }
+    .infoBox {
+      height: 50%;
+      width: 100%;
+      position: absolute;
+      display: table;
+      left: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.678); /*Color carta abajo*/
+      padding: 10px;
+    }
+  }
+  .back {
+    transform: rotateY(180deg);
+    // background-color: rgba(255, 255, 255, 0.7);
+    display: table;
+    z-index: 2;
+    font-size: 13px;
+    line-height: 20px;
+    padding: 10%;
+    .backInfo {
+      width: 80%;
+      text-align: justify;
+      text-justify: inter-word;
+      position: absolute;
+    }
+  }
+  .info {
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+    text-align: center;
+  }
+}
+
+@keyframes efecto {
+  50% {
+    transform: scale(1.02, 1.02);
+  }
+  100% {
+    transform: scale(1, 1);
+  }
+}
+
+.cartaToken.flip .front {
+  transform: rotateY(180deg);
+}
+
+.cartaToken.flip .back {
+  transform: rotateY(360deg);
+}
+
+.avatarImage {
+  position: absolute;
+  z-index: 1;
+  margin: 0 auto;
+  width: 114px;
+  height: 114px;
+  border-radius: 100%;
+  object-fit: cover;
+}
+
+.textCenter {
+  text-align: center;
+}

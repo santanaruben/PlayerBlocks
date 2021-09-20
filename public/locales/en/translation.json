@@ -1,0 +1,65 @@
+{
+  "topnav": {
+    "home": "Home",
+    "acceptance": "Acceptance",
+    "axieInfinity": "Axie Infinity",
+    "monstaInfinite": "Monsta Infinite",
+    "leaderboard": "Leaderboard",
+    "about": "About",
+    "test": "Test",
+    "sign": "Register",
+    "login": "Log in",
+    "lang": "English",
+    "changeLang": "Change Language"
+  },
+  "leaderboard": {
+    "details": "This cards highlights the best scholars of our program.",
+    "team": "Team",
+    "playerStats": "Player Stats",
+    "memberSince": "Member since",
+    "level": "Level",
+    "cups": "Cups",
+    "slp": "SLP generated this month"
+  },
+  "error": {
+    "nothing": "nothing to see here, for now"
+  },
+  "home": {
+    "welcome": "Welcome to PlayerBlocks",
+    "weAre": "We are a group focused on creating a 'Play to Earn' community of players through a scholarship program",
+    "apply": "Click on Register to apply for a scholarship\nFollow us on Twitter\nAnd remember to participate in the Telegram community we created for you"
+  },
+  "acceptance": {
+    "body": "Once you have completed the registration form you will be eligible for a scholarship in the game of your choice (currently only Axie Infinity). Please note that the selection is based on personal criteria and does not correspond to order of arrival or indexed lists.\n\nOnce selected, the administrators will contact you and provide you with a username (referring to PlayerBlocks), an email and a password. You are free to change the email and password, however, the nickname should not be changed.\n\nRemember to participate and help in the community, especially the less experienced ones.\n\nBe respectful, polite and never use bad language or derogatory comments.\n\nDo your own research, sponsors will prefer to give scholarships to people who already know the game rather than those who have no idea how to play the game.\n\nIf you can create content and add value to the player base, it will show your dedication and passion for the game. Are you a good writer? Create guides and blog posts. Are you good at interacting? Create trivia in groups. All of these efforts will not only increase your chances of getting a scholarship, but will also help beginners and even more experienced players.\n\nScholarships are perfect for players who are not yet ready to spend a single buck on the game. But applying for one is not a walk in the park. Before you can start playing a 'Play to Earn' game for free, make sure to stand out from all other scholarship applicants!"
+  },
+  "axieInfinity": {
+    "whatIsAxieBody": "Axie Infinity is inspired by other popular games that offer various fun opportunities. The concept is based on an idea created by the CryptoKitties. Axie Infinity is a collectible game based on the Ethereum blockchain (currently running on the Ronin chain). The game is a creation of the startup Sky Mavis.\n\nThe platform has its own native token, the Axie Infinity Shard (AXS), which lives within the game' ecosystem. It is an ERC-20 governance token that was launched in November 2020. These tokens can be acquired, traded or earned by playing on the platform, it also has other associated tokens, which include in-game assets, such as Axie characters, in the form of ERC-721 tokens, as well as Small Love Potion (SLP), another ERC-20 token.",
+    "whatAreAxiesTitle": "What are the Axies?",
+    "whatAreAxiesBody": "Like any game, it is possible to choose the character that pleases you the most or catches your attention. In the Axie Infinity ecosystem, the game characters are called Axies.\n\nThey are non-fungible tokens (NFT) that can be owned and controlled and can be stored in personal wallets or transferred to other Ethereum addresses.\n\nSimilarly, this game offers virtual items and lands, which are also ERC-721 tokens.\n\nIn the ecosystem, players can use equipment and formations in Adventure mode (PvE - Player vs. Environment) to fight monsters in Lunancia - the realm of Axie Infinity.\n\nIt is also possible to choose the Arena mode (PvP - Player vs. Player), to face other Axies trainers from the real world.\n\nWhen a player wins, they earn an asset called 'Small Love Potion' (SLP), which is used to breed Axies, this is also an ERC-20 token and can be traded on exchanges such as Binance.\n\nWith a high price of Axie and gas in Ethereum, the barrier to entry for new players wanting to get started is high. Procreating requires gas, which can represent a large amount of ether.\n\nThe Ronin blockchain, specifically created for Axie Infinity, has mitigated this problem.",
+    "makeMoneyTitle": "How do I earn money playing the game?",
+    "makeMoneyBody": "The game is built on the Ethereum blockchain (now on Ronin) Through your victories in Arena and Adventure you earn SLP which you can easily exchange for money.",
+    "loseTitle": "What happens if I lose?",
+    "loseBody": "Absolutely nothing. Only your victories and the SLP you earn count. When you lose you simply try again with a different strategy.",
+    "axieTitle": "Know the axies",
+    "axieBody1": "Each Axie has different traits that determine its abilities and characteristics. The first thing you need to know is the Axie's Stats. Each Axie has 4 stats: Health (HP), Morale, Skill and Speed.",
+    "axieBody2": "Health: Amount of damage the Axie can handle.\nMoral: Probability of critical hit.\nAbility: Adds extra damage when the Axie plays more than one card at a time. It is calculated as follows (card attack * skill )/ 500\nSpeed: Determines the order in which Axies attack. The fastest Axies attack first.\n\nThe stats that each Axie has depends on its parts and its classification. There are 8 types of Axies: Some classes are weak or strong against others and this ensures a balanced game.\n\nIf a Beast type attacks a Plant type Axie, it will do more damage than attacking a Bird type Axie. Also when an Axie is a Plant type, for example, it receives a bonus in Attack and Defense for playing Plant type cards.",
+    "gameplay": "Gameplay",
+    "gameplayBody1": "The first thing you need to do is go to https://axieinfinity.com/ and download the game using the links provided from there. Then you are going to use the email and password you get when you start the scholarship. If you plan to play on your phone, the game generates a QR code from the page that you can use to get started.\n\nOnce inside the game, you will see the following interface:",
+    "gameplayBody2": "Axies: allows you to visualize the creatures at your disposal. It is important that you analyze the abilities of each one so that you can put together the best possible team.\n\nTeams: here you will choose the position in which each Axie will play. The basic alignment is tank-support-attack, but there are defensive positions such as tank-tank-attack and others.\n\nInventory: shows the amount of SLP and other tokens you earn in the game.\n\nQuests: Here you will find the tasks you must complete to perform the daily mission: win 5 PvP battles, 10 PvE battles and press the Check in button. It restarts every 24h.\n\nEnergy: One of the most important aspects of the game is energy. It allows you to gain experience when playing Adventure and to gain SLP when playing Arena. You can play both modes without energy and complete your daily mission. Only if you spend all your energy in Arena, your Axies will never grow and it will be very difficult for you to get 100 SLP in PvE daily (50 in early stages of the game). Therefore, when you just started and your Axies are level 1, you should spend all your energy on Adventure and level them up. When they are level 20, you can spend all your energy in Arena mode and get extra SLP for each victory.",
+    "adventure": "Adventure",
+    "gameplayBody3": "Also known as PvE, in this mode you must face AI monsters. The difficulty increases each level, to the point that your Axies will need a certain level of experience to be able to overcome them. Daily you can obtain a maximum of 100 SLP (50 in early stages of the game) in this battle mode.\n\nEach quest can be repeated indefinitely, only that the number of SLP you get decreases as you repeat during the same day, until a point where you will get nothing. Here you can see a table with the approximate SLP values you would get per level.\n\nLevel 1-4: 1 SLP\n\nLevel 5-9: 2 SLP\n\nLevel 10-14: 4 SLP\n\nLevel 15-16: 6 SLP\n\nLevel 17-20: Random between 6-10 SLP\n\nLevel 21-36: Random between 10-20 SLP\n\nIt's quite obvious that the higher the level, the fewer games we will have to win to complete the daily mission and the 100 SLP, so your priority will be to level up your Axies and advance as fast as possible.",
+    "arena": "Arena",
+    "gameplayBody4": "In Arena or PvP mode, we will have to face our Axies against other players. The difference between winning and losing lies in how good your team is, the strategy you develop and a bit of luck. This means that if your team is good but you don't know how to use it, you will lose. On the other hand, if your team is not so bad but you have a good mastery of its skills, you will have a high probability of winning.\n\nIn Arena, the rewards in SLP are divided by your ranking. In this case the higher the ranking the better.\n\nBelow 800 - No SLP (still counts for the daily mission)\n\n800-999 -> 1 SLP\n\n1000-1099 -> 3 SLP\n\n1100-1299 -> 7 SLP\n\n1300-1499 -> 8 SLP\n\n1500-1799 -> 9 SLP\n\n1800-1999 -> 10 SLP\n\n2000-2199 -> 11 SLP\n\n2200+ -> 12 SLP",
+    "position": "Positioning",
+    "gameplayBody5": "Position your Axies wisely! Positioning is very important, as the Axies in front will be the first to be hit by the enemy team."
+  },
+  "about": {
+    "mission": "Mission",
+    "vision": "Vision",
+    "values": "Values",
+    "body": "PlayerBlocks opens a world of opportunities for all those interested in participate in this new enviroment that the 'Play to Earn' is, providing them with learning and mentoring through a great community of players, encouraging interactive and fun preparation that will make them progress better in the challenges that will arise along the way. Join us.",
+    "missionText": "We believe that living and learning in an incentivized community helps make a better ecosystem. Through individual and collective learning, we encourage people of all nationalities and backgrounds to better realize their potential and positively impact their performance and income.",
+    "visionText": "Our people, driven by creativity and innovation are what will make our community so special. And we face this challenge with passion and responsibility at the highest level.",
+    "valuesText": "We are driven by curiosity, optimism and the belief that all people can grow. We understand that learning never stops, whether it's being inquisitive, listening without judgment or asking for help. And we will focus on transparency and results above any process."
+  }
+}

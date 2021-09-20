@@ -1,0 +1,65 @@
+{
+  "topnav": {
+    "home": "Inicio",
+    "acceptance": "Aceptación",
+    "axieInfinity": "Axie Infinity",
+    "monstaInfinite": "Monsta Infinite",
+    "leaderboard": "Leaderboard",
+    "about": "Acerca de",
+    "test": "Prueba",
+    "sign": "Registro",
+    "login": "Inicio",
+    "lang": "Español",
+    "changeLang": "Cambiar Lenguaje"
+  },
+  "leaderboard": {
+    "details": "Estas cartas destacan a los mejores becarios de nuestro programa.",
+    "team": "Equipo",
+    "playerStats": "Estadísticas del Jugador",
+    "memberSince": "Miembro desde",
+    "level": "Nivel",
+    "cups": "Copas",
+    "slp": "SLP generado este mes"
+  },
+  "error": {
+    "nothing": "nada que ver aquí, por ahora"
+  },
+  "home": {
+    "welcome": "Bienvenido a PlayerBlocks",
+    "weAre": "Somos un grupo dedicado a crear una comunidad de jugadores 'Play to Earn' a través de un programa de becas",
+    "apply": "Haz click en Registro para aplicar por una beca\nSíguenos en Twitter\nY recuerda participar en la comunidad de Telegram que hemos armado para ti"
+  },
+  "acceptance": {
+    "body": "Una vez hayas completado el formulario de Registro estarás optando por una beca en el juego de tu preferencia (por ahora solo Axie Infinity). Ten en cuenta que la selección se realiza mediante criterios personales y no corresponde a ordenes de llegada o listas indexadas.\n\nYa seleccionado, los administradores se pondrán en contacto contigo y te proveerán un nombre de usuario (referencial a PlayerBlocks), un correo electrónico y una contraseña. Eres libre de cambiar el correo y la contraseña, sin embargo, el nombre de usuario no debe ser cambiado.\n\nRecuerda participar y ayudar en la comunidad, sobre todo a los menos experimentados.\n\nNo envíes mensajes directos o spam, esto solo aumentarás las posibilidades de que un patrocinador potencial te bloquee. Se respetuoso, educado y nunca uses lenguaje soez ni comentarios despectivos.\n\nNo mendigues la beca, una beca se gana construyendo relaciones y comprometiéndose con la comunidad, no mendigando.\n\nHaz tu propia investigación, los patrocinadores preferirán otorgar becas a personas que ya conocen el juego en lugar de a quienes no tienen idea de cómo jugar.\n\nUsa tus habilidades y talentos para contribuir con algo a la comunidad. Si puedes crear contenido y agregar valor a la base de jugadores, esto demostrará tu dedicación y pasión por el juego. ¿Eres un buen escritor? Crea guías y publicaciones de blog. ¿Eres bueno interactuando? Crea trivias en los grupos. Todos estos esfuerzos no solo aumentarán tus posibilidades de obtener una beca, sino que también ayudará a los principiantes e incluso a los jugadores más experimentados.\n\nLas becas son perfectas para los jugadores que aún no están en condiciones de gastar un solo dólar en el juego. Pero solicitar una no es un paseo por el parque. Antes de empezar a jugar gratis un 'Play to Earn', ¡asegúrate de destacar entre todos los solicitantes de becas!"
+  },
+  "axieInfinity": {
+    "whatIsAxieBody": "Axie Infinity se inspira en otros juegos populares que ofrecen diversas oportunidades de diversión. El concepto está basado en una idea creada por los CryptoKitties. Axie Infinity es un juego coleccionable que tiene como base el blockchain de Ethereum (actualmente corre sobre la cadena Ronin). El juego es una creación de la startup Sky Mavis.\n\nLa plataforma tiene su propio token nativo, el Axie Infinity Shard (AXS), el cual hace vida dentro del ecosistema del título. Se trata de un token de gobernanza ERC-20 que fue lanzado en noviembre de 2020. Estos tokens pueden ser adquiridos, tradeados o ganados jugando en la plataforma, también cuenta con otros tokens asociados, que incluyen activos del juego, como por ejemplo los personajes Axie, bajo la forma de tokens ERC-721, así como Small Love Potion (SLP), otro token ERC-20.",
+    "whatAreAxiesTitle": "¿Qué son los Axies?",
+    "whatAreAxiesBody": "Como todo juego, es posible escoger el personaje que más te agrade o te llame la atención. En el ecosistema Axie Infinity, los personajes del juego se denominan Axies.\n\nSe trata de tokens no fungibles (NFT) que se pueden poseer y controlar y estos pueden ser guardados en monederos personales o ser transferidos a otras direcciones de Ethereum.\n\nA su vez pueden ser tradeados con otros jugadores utilizando un Marketplace. De igual manera, este juego presenta ítems y tierras virtuales, que también son tokens ERC-721.\n\nDentro del ecosistema, los jugadores pueden utilizar equipos y formaciones en el modo Aventura (JcE – Jugador contra Entorno, o PvE en inglés) para luchar contra monstruos en Lunancia –el reino de Axie Infinity.\n\nTambién se puede escoger el modo Arena (JcJ – Jugador contra Jugador, o PvP en inglés), para enfrentar a otros entrenadores de Axies del mundo real.\n\nCuando un jugador vence, gana un activo llamado “Small Love Potion” (SLP), que se utiliza para criar Axies, este también es un token ERC-20 y puede ser tradeado en exchanges como Binance.\n\nCon un elevado precio de Axie y del gas en Ethereum, la barrera de entrada para los nuevos jugadores que desean iniciarse es alta. Procrear requiere gas, que puede representar una gran cantidad de ether.\n\nLa sidechain de Ethereum Ronin, específicamente creada para Axie Infinity, ha mitigado este problema.",
+    "makeMoneyTitle": "¿Cómo gano dinero jugando?",
+    "makeMoneyBody": "El juego está construido en la blockchain de Ethereum. A través de tus victorias en Arena y Aventura ganas SLP el cual puedes intercambiar por dinero fácilmente.",
+    "loseTitle": "¿Qué pasa si pierdo?",
+    "loseBody": "Absolutamente nada. Solo cuentan tus victorias y los SLP que vayas ganando. Cuando pierdes simplemente vuelves a intentarlo con una estrategia diferente.",
+    "axieTitle": "Conoce los axies",
+    "axieBody1": "Cada Axie tiene diferentes rasgos que determinan sus habilidades y características. Lo primero que debes conocer son las Estadísticas del Axie. Cada Axie tiene 4 estadísticas: Salud (HP), Moral (Morale), Habilidad (Skill) y Velocidad (Speed)",
+    "axieBody2": "Salud: Cantidad de daño que soporta el Axie\nMoral: Probabilidad de golpe crítico. Estado de Last Stand más largo.\nHabilidad: Añade daño extra cuando el Axie juega más de una carta a la vez. Se calcula así (ataque de carta * habilidad )/ 500\nVelocidad: Determina el orden en que atacan los Axies. Los más rápidos atacan primero.\n\nLas estadísticas que tiene cada Axie depende de sus partes y su clasificación. Existen 8 tipos de Axies: Algunas clases son débiles o fuertes contra otras y esto asegura un juego nivelado.\n\nSi un tipo Bestia ataca un Axie tipo Planta, hará más daño que atacando a un Axie tipo Pájaro. Además cuando un Axie es de tipo Planta, por ejemplo, recibe un bonus en Ataque y Defensa por jugar cartas de tipo Planta.",
+    "gameplay": "El Juego",
+    "gameplayBody1": "Lo primero que debes hacer es ir a https://axieinfinity.com/ y descargar el juego usando los links provistos desde allí. Luego vas a usar el correo y la contraseña que obtienes al iniciar la beca. Si planeas jugar en tu teléfono, el juego te genera un código QR desde la página con el que puedes empezar\n\nUna vez dentro del juego, vas a ver la siguiente interfaz:",
+    "gameplayBody2": "Axies: te permite visualizar las criaturas de las que dispones. Es importante que analices las habilidades de cada uno para que armes el mejor equipo posible.\n\nTeams: aquí escogerás la posición en la que jugará cada Axie. La alineación básica coloca tanque-soporte-ataque, pero existen posiciones defensivas como tanque-tanque-ataque y otras.\n\nInventory: muestra la cantidad de SLP y otros tokens que ganes en el juego\n\nQuests: Aquí encontrarás las tareas que debes completar para realizar la misión diaria: ganar 5 batallas de PvP, 10 batallas de PvE y presionar el botón Check in. Se reinicia cada 24h.\n\nEnergía: Uno de los aspectos más importantes del juego es la energía. Esta te permite ganar experiencia cuando juegas Aventura y ganar SLP cuando juegas Arena. Puedes jugar ambos modos sin energía y completar tu misión diaria. Solo que si gastas toda tu energía en Arena, tus Axies nunca crecerán y te será muy difícil conseguir 100 SLP en PvE a diario. Por tanto, cuando acabas de empezar y tus Axies son nivel 1, debes gastar toda la energía en Aventura y subirlos de nivel. Cuando tengan nivel 20, podrás gastar toda tu energía en modo Arena y obtener SLP extra por cada victoria.",
+    "adventure": "Adventure o Aventura",
+    "gameplayBody3": "También conocido como PvE, en este modo debes enfrentarte a monstruos Inteligencia Artificial. La dificultad se incrementa cada nivel, al punto de que tus Axies necesitarán un determinado nivel de experiencia para poder superarlos. Diariamente puedes obtener un máximo de 100 SLP (50 en estapas tempranas del juego) en este modo de batalla.\n\nCada aventura puede repetirse de manera indefinida, solo que el número de SLP que obtienes disminuye al repetir durante el mismo día, hasta un punto en el que no te darán nada. Aquí puedes ver una tabla con los valores aproximados de SLP que obtendrías por nivel.\n\nNivel 1–4: 1 SLP\n\nNivel  5–9: 2 SLP\n\nNivel 10–14: 4 SLP\n\nNivel 15–16: 6 SLP\n\nNivel 17–20: Aleatorio entre 6–10 SLP\n\nNivel 21–36:  Aleatorio entre 10–20 SLP\n\nEs bastante obvio que a mayores niveles, menos partidas tendremos que ganar para completar la misión diaria y los 100 SLP. Por lo que tu prioridad será subir de nivel tus Axies y avanzar lo más rápido posible.",
+    "arena": "Arena",
+    "gameplayBody4": "En el modo Arena o PvP, tendremos que enfrentar nuestros Axies contra otros jugadores. Acá no importa el nivel de tus Axies, todos compiten en Nivel 1. La diferencia entre ganar y perder se encuentra en que tan bueno es tu equipo, la estrategia que elabores y un poco de suerte. Esto quiere decir que si tu equipo es bueno pero no sabes usarlo, perderás. Al igual que si tu equipo no es tan malo pero tienes buen dominio de sus habilidades tendrás alta probabilidad de ganar.\n\nEn Arena, las recompensas en SLP se dividen por el ranking que ocupes. En este caso mientras mayor sea el ranking mejor.\n\nDebajo de  800 - No ganas SLP (igual cuenta para la misión diaria)\n\n800–999 -> 1 SLP\n\n1000–1099 -> 3 SLP\n\n1100–1299 -> 7 SLP\n\n1300–1499 -> 8 SLP\n\n1500–1799 -> 9 SLP\n\n1800–1999 -> 10 SLP\n\n2000–2199 -> 11 SLP\n\n2200+ -> 12 SLP",
+    "position": "Posicionamiento",
+    "gameplayBody5": "¡Posiciona tus Axies sabiamente! El posicionamiento es muy importante, ya que los Axies que están al frente serán los primeros en ser golpeados por el equipo enemigo."
+  },
+  "about": {
+    "mission": "Misión",
+    "vision": "Visión",
+    "values": "Valores",
+    "body": "PlayerBlocks abre un mundo de oportunidades para todos los interesados en participar de este nuevo ecosistema que es el 'Play to Earn' (Juega para Ganar), brindándoles aprendizaje y asesoría a través de una gran comunidad de jugadores, mediante una preparación interactiva y divertida que los hará progresar de mejor forma ante los retos que surgirán en el camino. Únete a nosotros.",
+    "missionText": "Creemos que vivir y aprender en una comunidad incentivada ayuda a hacer un mejor ecosistema. A través del aprendizaje individual y colectivo, fomentamos a que personas de cualquier nacionalidad u origen desarrollen mejor su potencial y tengan un impacto positivo en su rendimiento y en sus ingresos económicos.",
+    "visionText": "Nuestra gente, impulsada por la creatividad y la innovación es la que hará que nuestra comunidad sea tan especial. Y afrontamos este reto con pasión y responsabilidad al más alto nivel.",
+    "valuesText": "Nos mueve la curiosidad, el optimismo y la creencia de que todas las personas pueden crecer. Entendemos que el aprendizaje nunca se detiene, ya sea siendo inquisitivos, escuchando sin juzgar o pidiendo ayuda. Y nos centramos en la transparencia y los resultados por encima de cualquier proceso."
+  }
+}
