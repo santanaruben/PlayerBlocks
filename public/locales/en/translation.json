@@ -3,6 +3,7 @@
     "home": "Home",
     "acceptance": "Acceptance",
     "axieInfinity": "Axie Infinity",
+    "dchess": "DChess",
     "otherGames": "Other Games",
     "leaderboard": "Leaderboard",
     "about": "About",
@@ -26,11 +27,11 @@
   },
   "home": {
     "welcome": "Welcome to PlayerBlocks",
-    "weAre": "We are a group focused on creating a 'Play to Earn' community of players through a scholarship program",
-    "apply": "Click on Register to apply for a scholarship\nFollow us on Twitter\nAnd remember to participate in the Telegram community we created for you"
+    "weAre": "We are a group focused on creating a 'Play to Earn' community of players through a scholarship program\nOur scholarships generate a percentage allocated to burn $UBI on the ",
+    "apply": "Click on Register to apply for a scholarship\nFollow us on Twitter\nAnd participate in the Telegram community we created for you\nManagers are welcomed ❤️"
   },
   "acceptance": {
-    "body": "Once you have completed the registration form you will be eligible for a scholarship in the game of your choice (currently only Axie Infinity). Please note that the selection is based on personal criteria and does not correspond to order of arrival or indexed lists.\n\nOnce selected, the administrators will contact you and provide you with a username (referring to PlayerBlocks), an email and a password. You are free to change the email and password, however, the nickname should not be changed.\n\nRemember to participate and help in the community, especially the less experienced ones.\n\nBe respectful, polite and never use bad language or derogatory comments.\n\nDo your own research, sponsors will prefer to give scholarships to people who already know the game rather than those who have no idea how to play the game.\n\nIf you can create content and add value to the player base, it will show your dedication and passion for the game. Are you a good writer? Create guides and blog posts. Are you good at interacting? Create trivia in groups. All of these efforts will not only increase your chances of getting a scholarship, but will also help beginners and even more experienced players.\n\nScholarships are perfect for players who are not yet ready to spend a single buck on the game. But applying for one is not a walk in the park. Before you can start playing a 'Play to Earn' game for free, make sure to stand out from all other scholarship applicants!"
+    "body": "Once you have completed the registration form you will be eligible for a scholarship in the game of your choice. Please note that the selection is based on personal criteria and does not correspond to order of arrival or indexed lists.\n\nOnce selected, the administrators will contact you and provide you with a username (referring to PlayerBlocks), an email and a password. You are free to change the email and password, however, the nickname should not be changed.\n\nRemember to participate and help in the community, especially the less experienced ones.\n\nBe respectful, polite and never use bad language or derogatory comments.\n\nDo your own research, managers will prefer to give scholarships to people who already know the game rather than those who have no idea how to play the game.\n\nIf you can create content and add value to the player base, it will show your dedication and passion for the game. Are you a good writer? Create guides and blog posts. Are you good at interacting? Create trivia in groups. All of these efforts will not only increase your chances of getting a scholarship, but will also help beginners and even more experienced players.\n\nScholarships are perfect for players who are not yet ready to spend a single buck on the game. But applying for one is not a walk in the park. Before you can start playing a 'Play to Earn' game for free, make sure to stand out from all other scholarship applicants!"
   },
   "axieInfinity": {
     "whatIsAxieBody": "Axie Infinity is inspired by other popular games that offer various fun opportunities. The concept is based on an idea created by the CryptoKitties. Axie Infinity is a collectible game based on the Ethereum blockchain (currently running on the Ronin chain). The game is a creation of the startup Sky Mavis.\n\nThe platform has its own native token, the Axie Infinity Shard (AXS), which lives within the game' ecosystem. It is an ERC-20 governance token that was launched in November 2020. These tokens can be acquired, traded or earned by playing on the platform, it also has other associated tokens, which include in-game assets, such as Axie characters, in the form of ERC-721 tokens, as well as Small Love Potion (SLP), another ERC-20 token.",
@@ -52,6 +53,17 @@
     "gameplayBody4": "In Arena or PvP mode, we will have to face our Axies against other players. The difference between winning and losing lies in how good your team is, the strategy you develop and a bit of luck. This means that if your team is good but you don't know how to use it, you will lose. On the other hand, if your team is not so bad but you have a good mastery of its skills, you will have a high probability of winning.\n\nIn Arena, the rewards in SLP are divided by your ranking. In this case the higher the ranking the better.\n\nBelow 800 - No SLP (still counts for the daily mission)\n\n800-999 -> 1 SLP\n\n1000-1099 -> 3 SLP\n\n1100-1299 -> 7 SLP\n\n1300-1499 -> 8 SLP\n\n1500-1799 -> 9 SLP\n\n1800-1999 -> 10 SLP\n\n2000-2199 -> 11 SLP\n\n2200+ -> 12 SLP",
     "position": "Positioning",
     "gameplayBody5": "Position your Axies wisely! Positioning is very important, as the Axies in front will be the first to be hit by the enemy team."
+  },
+  "dchess": {
+    "body1": "A new way to play the consecrated game of chess. A decentralized platform for everyone who wants to earn money playing the most beloved game in the history of mankind. Scholarships, tournaments, chip system, ratings, integrated classic or blitz chess mode and much more.",
+    "body2": "Each player will have 5 energies (Coffees) per day which can be consumed by playing games in these modes to win in $KING. Each of these games, no matter which game mode is chosen, will consume 1 energy. At the same time, players will be able to play friendly games to have a good time enjoying the cozy DCHESS interface, and conquer the top of the Ranking.",
+    "title3": "Boards",
+    "body3": "There are different boards determined by their rarity, which will determine your account rank when you start playing DCHESS, your daily PVP earnings and which tournaments you will be allowed to enter.",
+    "body4": "DCHESS players will get cups every time they win a PVP game in order to form a ranking. There will be monthly seasons in which players who finish higher in the ranking will be rewarded with $QUEEN. The matchmaking is also designed in such a way that you will always be matched with a person of the same skill as you.",
+    "body5": "One of the burning methods in DCHESS will be a monthly tournament system.",
+    "body6": "Upgrade all your chess pieces to level up your account! Each player must use $KING to upgrade the 16 pieces on his board one by one to increase his account rank. When all the pieces have been upgraded, the player's account rank will automatically increase. The upgrade price of each piece will be determined by the player's account rank.",
+    "body7": "Tokens",
+    "body8": "The DChess economy will be based on 2 fundamental pillars: the $QUEEN and the $KING. These tokens will represent both the governance of the project and the in-game profit of each player."
   },
   "about": {
     "mission": "Mission",

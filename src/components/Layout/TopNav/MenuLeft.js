@@ -71,10 +71,10 @@ function MenuLeft(props) {
           </MenuItem>
         </Link>
 
-        <Link to="/other-games" className={props.classes.link} onClick={top}>
+        <Link to="/dchess" className={props.classes.link} onClick={top}>
           <MenuItem className={props.classes.font}>
             <SportsEsportsIcon className={props.classes.icono} />
-            {t("topnav.otherGames")}
+            {t("topnav.dchess")}
           </MenuItem>
         </Link>
 
@@ -109,8 +109,8 @@ function MenuLeft(props) {
         <Link to="/axie-infinity" className={props.classes.link} onClick={top}>
           {t("topnav.axieInfinity")}
         </Link>
-        <Link to="/other-games" className={props.classes.link} onClick={top}>
-          {t("topnav.otherGames")}
+        <Link to="/dchess" className={props.classes.link} onClick={top}>
+          {t("topnav.dchess")}
         </Link>
         <Link to="/leaderboard" className={props.classes.link} onClick={top}>
           {t("topnav.leaderboard")}

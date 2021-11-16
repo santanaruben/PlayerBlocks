@@ -372,7 +372,17 @@ class HomeParallax extends React.Component {
                   style={{ width: "40%" }}
                 /> */}
                 <div className={styles.welcomeContainer}>
-                  <p className={styles.welcome}>{t("home.weAre")}</p>
+                  <p className={styles.welcome}>
+                    {t("home.weAre")}
+                    <a
+                      href="https://ubiburner.com/"
+                      target="_blank"
+                      rel="noreferrer"
+                      style={{ color: "white" }}
+                    >
+                      UBI Burner
+                    </a>
+                  </p>
                 </div>
               </ParallaxLayer>
               <ParallaxLayer
