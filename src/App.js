@@ -1,11 +1,6 @@
 import React, { useEffect, Suspense, lazy } from "react";
 import MyErrorBoundary from "./components/Errors/MyErrorBoundary";
-import {
-  BrowserRouter as Router,
-  Route,
-  Switch,
-  Redirect,
-} from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { ThemeProvider } from "@material-ui/core/styles";
 import { theme } from "./themes/theme";
 import TopNav from "./components/Layout/TopNav";
