@@ -1,20 +1,20 @@
 [
   {
     "id": 0,
-    "name": "Ray",
-    "picture": "Ray.png",
-    "team": "Ambivalents",
+    "name": "Einyel",
+    "picture": "eg.jpg",
+    "team": "Kiraras",
     "date": "1631651732",
-    "level": "2500",
-    "slp": "3000"
+    "level": "1600",
+    "slp": "3400"
   },
   {
     "id": 1,
-    "name": "Heimdall",
+    "name": "Jorge",
     "picture": "Heimdall.png",
     "team": "Go for all",
     "date": "1631651732",
-    "level": "2300",
+    "level": "1400",
     "slp": "2800"
   },
   {
@@ -23,7 +23,7 @@
     "picture": "Lisa.png",
     "team": "The 3 Musketeers",
     "date": "1631651732",
-    "level": "2200",
+    "level": "1200",
     "slp": "2700"
   }
 ]
